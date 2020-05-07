@@ -1,3 +1,5 @@
 Used https://spring.io/guides/gs/consuming-web-service/ as a guide/tutorial for setting up this SOAP client
 
+PersoonClient.java gives "red line" in IntelliJ while everything works OK
+
 PS: SOAP server must be up-and running in order for this application to compile properly
