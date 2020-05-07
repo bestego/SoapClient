@@ -1,0 +1,3 @@
+Used https://spring.io/guides/gs/consuming-web-service/ as a guide/tutorial for setting up this SOAP client
+
+PS: SOAP server must be up-and running in order for this application to compile properly
